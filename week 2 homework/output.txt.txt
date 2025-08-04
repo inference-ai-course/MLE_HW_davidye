@@ -1,0 +1,22 @@
+@ > Courses > Machine Learning for the GenAl Era
+
+Machine Learning for the
+GenAl Era
+
+Master the tools of the GenAl era. Build and fine-tune LLMs, engineer prompts, and deploy real Al
+agents using Python, Hugging Face, LangChain, and TRL. Complete 10 hands-on projects with
+FAANG mentorship and GPU-backed infrastructure.
+
+© Michael Barathan - FANG Machine Learning Engineer with 15+ years of experience
+
+th advanced Featured
+
+By the end of this program, you'll be ready to:
+
+Confidently land Al engineering, ML, and prompt engineering roles
+Design, optimize, and deploy scalable Al workflows using LLMs
+Fine-tune and optimize large language models (LLMs)
+
+Create a portfolio of impactful projects that stand out to employers
+
+Stand out with tangible projects on your resume
